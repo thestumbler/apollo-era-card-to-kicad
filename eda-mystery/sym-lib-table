@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name ".stumbler")(type "KiCad")(uri "/Users/rclott/root/files/projs/thestumbler/eda/stumbler.kicad_sym")(options "")(descr ""))
+)
