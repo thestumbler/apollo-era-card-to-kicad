@@ -525,19 +525,12 @@
     "net_colors": null,
     "netclass_assignments": {
       "/NET1": "external",
-      "/NET10": "external",
       "/NET11": "external",
       "/NET12": "external",
       "/NET13": "external",
       "/NET14": "external",
       "/NET15": "external",
-      "/NET16": "external",
-      "/NET17": "external",
-      "/NET18": "external",
-      "/NET19": "external",
       "/NET2": "external",
-      "/NET20": "external",
-      "/NET21": "external",
       "/NET3": "external",
       "/NET4": "external",
       "/NET5": "external",
@@ -690,7 +683,7 @@
     ],
     [
       "a7236d77-e702-48eb-9941-3603113c0d3c",
-      "Traced Circuit"
+      "TRACED CIRCUIT"
     ]
   ],
   "text_variables": {}
