@@ -1,12 +1,20 @@
 # Apollo-Era-Card-RevEng
 
+See the accompanying Hackaday writeup about this schematic project:
+
+[https://hackaday.com/2024/11/25/apollo-era-pcb-reverse-engineering-to-kicad](
+https://hackaday.com/2024/11/25/apollo-era-pcb-reverse-engineering-to-kicad)
+
+
 This repo documents additional explorations into the reverse engineering
 effort of an Apollo-era printed circuit board assemly that Skyhawkson
 obtained earlier this year. See his project at the [original
 repo](https://github.com/Skyhawkson/Apollo-Era-Card-RevEng/tree/main).
 
-_work in progress, still documenting the process and observations
-check again in a few days_
+Note: I planned to submit this as a pull request to Skyhawkson's
+repository. But I ran into trouble with git and spaces in filenames, a
+problem I haven't seen before. 
+
 
 ### Best Guess
 
@@ -19,7 +27,9 @@ to digital circuit card. That makes sense, since scanning through a
 bunch of sensors over and over again makes sense in the context of
 running through test sequences.
 
-Maybe.
+If there are any updates based on comments from Hackaday readers or
+anyone here in GitHub, or just random new insights, I will update the
+repository as necessary.
 
 ### Schematic
 
